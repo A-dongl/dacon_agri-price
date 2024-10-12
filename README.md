@@ -1,7 +1,6 @@
 # dacon_agri-price
 dacon priceforcasting agriculture
 
-"""
 [주제]
 국민생활과 밀접한 10개 농산물 품목의 가격 예측
 (배추, 무, 양파, 사과, 배, 건고추, 깐마늘, 감자, 대파, 상추)
@@ -27,6 +26,8 @@ T+1순, T+2순, T+3순의 평균가격을 예측
 양파        양파       1키로       상
 대파        대파(일반)  1키로단     상
 
+
+### file explanation
 
 datacheck_v1 : train data preprocessing -> splited data what i need (all & another )
 datacheck_v2 : call v1 data & check=
