@@ -32,7 +32,7 @@ T+1순, T+2순, T+3순의 평균가격을 예측
 - 산지공판장과 전국도매는 건고추 데이터 없이 순무 데이터만 존재
 - 몇몇 품종은 품종명이 요구사항과 일치하는 것이 없음.
 
-datacheck_v1 : train data preprocessing -> splited data what i need (all & another ) \n
-datacheck_v2 : call v1 data & check \n
-datacheck_v3 : 산지공판장 preprocessing -> splited data what i need (all & another ) \n
-datacheck_v3 : 전국도매 preprocessing -> splited data what i need (all & another ) \n
+ - datacheck_v1 : train data preprocessing -> splited data what i need (all & another )
+ - datacheck_v2 : call v1 data & check \n
+ - datacheck_v3 : 산지공판장 preprocessing -> splited data what i need (all & another )
+ - datacheck_v3 : 전국도매 preprocessing -> splited data what i need (all & another )
